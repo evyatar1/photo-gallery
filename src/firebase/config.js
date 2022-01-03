@@ -3,7 +3,6 @@ import 'firebase/storage';
 import 'firebase/firestore';
 import { Firestore } from 'firebase/firestore';
 
-// Your web app's Firebase configuration
 
 const firebaseConfig = {
 
